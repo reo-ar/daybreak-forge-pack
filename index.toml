@@ -226,6 +226,11 @@ hash = "08d04bc17b1fb7eeb03a8a759d4cc8a2b445278920fd26c24a0418ed64440f18"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.toml"
+hash = "5b210f54a46279ca34dd50756cfa73f744e5762033ea721a858fbba2bab08fb3"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.toml"
 hash = "1fab7d459da08027cf2e6724e42c2951733fbbf85506fc60c089978d01acf6f5"
 metafile = true
@@ -418,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/more-red.toml"
 hash = "cc616cf13f87b81bfed03e2575162331c15bbe3d2e6e9ff3a62bfd2f1d49740e"
+metafile = true
+
+[[files]]
+file = "mods/morpheus.toml"
+hash = "985d346aa86d997820f99c6ca64d7ebf341b79383c3d246e23e87890dc36b1de"
 metafile = true
 
 [[files]]
