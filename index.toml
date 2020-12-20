@@ -186,6 +186,11 @@ hash = "29ac66bae17096cb62803c0b0a1302f10c1f792447e54c188c5948553ba22c89"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.toml"
+hash = "9a716309f975795ff915a3238401b8770dd71b15aed7b1aeffe71bbcce6a7c37"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-crawl.toml"
 hash = "444afb3feccc5a8a0faf5a25e192582e612303ed720239e703bf202ac008f526"
 metafile = true
@@ -446,6 +451,11 @@ hash = "ebf90c51523880425d21814688a9fa319a733e4c498d1e55dcac0f1a0bb9cd5e"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfish-furniture-mod.toml"
+hash = "84d4e9cb3a32b715dac1b0eca6d47125d4e70863a3e8531ef3908424e0f4646b"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.toml"
 hash = "687e22d6053d8de4f3ad750516ffec16060686c71252b7207cab12b0c7793577"
 metafile = true
@@ -482,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.toml"
-hash = "2e9fe01c768e75be213151b27f1eaa1e9c7b006a863e52586320b6a6d57f380f"
+hash = "23997b4bacd2a61eb9df9cb83f5a6035fe0e9f721c0464392ad0c3e622e38bd4"
 metafile = true
 
 [[files]]
@@ -623,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.toml"
 hash = "8918d0dd2f64b8a2ad63673e7a3600d973fe33641a9dc6660fca1a023c52a3b2"
+metafile = true
+
+[[files]]
+file = "mods/traverse-reforged.toml"
+hash = "df51a5f307ef7adadc7faa1ed862125212feeb4897af9a991da228b60dd9e457"
 metafile = true
 
 [[files]]

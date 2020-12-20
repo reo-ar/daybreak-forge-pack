@@ -1,0 +1,14 @@
+name = "Traverse Reforged"
+filename = "traverse-1.16.4-0.4.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3132/645/traverse-1.16.4-0.4.2.3.jar"
+hash-format = "murmur2"
+hash = "961669863"
+
+[update]
+[update.curseforge]
+file-id = 3132645
+project-id = 267769
+release-channel = "beta"
