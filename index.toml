@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/environmental-core.toml"
-hash = "bd42bf37198a34d2650ce24cfe2f691e8e3dc65b51e694fabb380ff53354570f"
+hash = "2e0c9efda323deff3275fd2fa0fad64208a39767c63e6c99abb635a23fb7440d"
 metafile = true
 
 [[files]]
