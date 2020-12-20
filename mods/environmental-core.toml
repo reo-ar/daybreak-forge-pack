@@ -3,6 +3,6 @@ filename = "envirocore-1.16.4-3.0.5.2"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3142/866/envirocore-1.16.4-3.0.5.2.jar"
-hash-format = "murmur2"
-hash = "317697498"
+url = "https://media.forgecdn.net/files/3142/866/envirocore-1.16.4-3.0.5.2.jar"
+hash-format = "sha256"
+hash = "132b627ad1518ee5e6398e109f5a326abfbccb78e12e762a6e2864db4c1c6d26"
