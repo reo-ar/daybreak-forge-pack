@@ -1,12 +1,8 @@
 name = "Environmental Core"
-filename = "envirocore-1.16.4-3.0.5.2.jar"
+filename = "envirocore-1.16.4-3.0.5.2"
 side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3142/866/envirocore-1.16.4-3.0.5.2.jar"
-
-[update]
-[update.curseforge]
-file-id = 3142866
-project-id = 345795
-release-channel = "beta"
+hash-format = "murmur2"
+hash = "317697498"
