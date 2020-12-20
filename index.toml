@@ -256,6 +256,11 @@ hash = "bae868c668813c91f9b8d0603d3bc8c19207adc6b656f53a973cc2052736fdc3"
 metafile = true
 
 [[files]]
+file = "mods/fruit-trees.toml"
+hash = "96e0963f38c1af1d9bb6eb8373013a8ab7eab5facfd66af0ff52b1421b186364"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups.toml"
 hash = "47df0ba9f13be646b4500ec30d523eb66c3e95a721ec74b2449d16209d15bbb9"
 metafile = true
@@ -563,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/shutup-experimental-settings.toml"
 hash = "f3f4a941d3dbef3ecace9f2ea332d61df0bc0442504ff368770f9b4cbd066c86"
+metafile = true
+
+[[files]]
+file = "mods/simple-farming.toml"
+hash = "43adb16b814df43136aa0cb45e289338f5350abafa2ab19d1bc2e129031c3a02"
 metafile = true
 
 [[files]]

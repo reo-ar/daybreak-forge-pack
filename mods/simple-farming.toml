@@ -1,0 +1,14 @@
+name = "Simple Farming"
+filename = "simplefarming-1.16.4-1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/674/simplefarming-1.16.4-1.3.5.jar"
+hash-format = "murmur2"
+hash = "1953359363"
+
+[update]
+[update.curseforge]
+file-id = 3100674
+project-id = 327554
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "🍊 Fruit Trees"
+filename = "FruitTrees-1.16.3-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3103/505/FruitTrees-1.16.3-2.2.0.jar"
+hash-format = "murmur2"
+hash = "321943075"
+
+[update]
+[update.curseforge]
+file-id = 3103505
+project-id = 355467
+release-channel = "beta"
