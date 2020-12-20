@@ -111,11 +111,6 @@ hash = "8ab0c7106a2ea49d3bc6eb34d90c5f8e1a05744c95f7a414ef6f3664292d3a30"
 metafile = true
 
 [[files]]
-file = "mods/cofh-core.toml"
-hash = "fab832caf8ad89246c8bdd64e8f84afbe6afe22e1bf5d14743e3ed0334da09df"
-metafile = true
-
-[[files]]
 file = "mods/comforts.toml"
 hash = "1ec084ea0cd7b550b860262b8213414d13fedc41c9ecc39d5ea5a1e307008c56"
 metafile = true
@@ -603,21 +598,6 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.toml"
 hash = "446b0b8b9f37571fdeba78dc7b165bc9af035939906634e8a5435a6dba205efd"
-metafile = true
-
-[[files]]
-file = "mods/thermal-expansion.toml"
-hash = "d176dad21a36492d020e8c3678268454311fec55da8696837bdafe2f19643653"
-metafile = true
-
-[[files]]
-file = "mods/thermal-foundation.toml"
-hash = "9d6f5f4e8a3dd480b60393a2788d2568df5c4c6ee9f22365060aab095a30ab09"
-metafile = true
-
-[[files]]
-file = "mods/thermal-locomotion.toml"
-hash = "38272044d43927e4d922bbc657ac88c22956a613ce93acdaf54d86380b3528c3"
 metafile = true
 
 [[files]]
