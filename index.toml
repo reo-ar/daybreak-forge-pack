@@ -156,6 +156,11 @@ hash = "34c1ae5464b79fd123aaec86a51f025483841e6058138e4bb7d68c2973d63dbc"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.toml"
+hash = "42fe22e0f67bbe563b250ebb03d38ae47e3902ac5af979c06b2465e4aa4192b5"
+metafile = true
+
+[[files]]
 file = "mods/culinary-construct.toml"
 hash = "1b1fe8789b42b1235283593fc171b79d7a51d36d79be8cee1f9cdbc9d73fc5ef"
 metafile = true
@@ -453,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.toml"
 hash = "49dc2073620f057a76a7aa3475a267bab32b632801427ed59709f92d0a0efe50"
+metafile = true
+
+[[files]]
+file = "mods/pickle-tweaks.toml"
+hash = "e54a77981a35a7168590b0509f6c4535c27978b5ab8b11124b21628ea9ff0a63"
 metafile = true
 
 [[files]]
