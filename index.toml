@@ -176,6 +176,11 @@ hash = "29e941325a7a2837988de7e66c441098b207b7f8d61918639a7cf6edd66156f3"
 metafile = true
 
 [[files]]
+file = "mods/davidwantedthis.toml"
+hash = "da7ef7c70c51e1c44c82028655cdbf8e4da22f6a6f188b2cd744b93503950915"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-crawl.toml"
 hash = "444afb3feccc5a8a0faf5a25e192582e612303ed720239e703bf202ac008f526"
 metafile = true
