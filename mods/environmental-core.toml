@@ -4,8 +4,6 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3142/866/envirocore-1.16.4-3.0.5.2.jar"
-hash-format = "murmur2"
-hash = "317697498"
 
 [update]
 [update.curseforge]
