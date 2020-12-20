@@ -1,0 +1,14 @@
+name = "FTB Ultimine"
+filename = "ftb-ultimine-1603.1.1.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3118/88/ftb-ultimine-1603.1.1.13.jar"
+hash-format = "murmur2"
+hash = "3216166410"
+
+[update]
+[update.curseforge]
+file-id = 3118088
+project-id = 386134
+release-channel = "beta"

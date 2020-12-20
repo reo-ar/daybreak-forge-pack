@@ -1,0 +1,14 @@
+name = "Mekanism Tools"
+filename = "MekanismTools-1.16.4-10.0.18.445.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3134/214/MekanismTools-1.16.4-10.0.18.445.jar"
+hash-format = "murmur2"
+hash = "3566645142"
+
+[update]
+[update.curseforge]
+file-id = 3134214
+project-id = 268567
+release-channel = "beta"

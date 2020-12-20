@@ -1,0 +1,14 @@
+name = "Camera Mod"
+filename = "camera-1.16.4-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge-service.overwolf.wtf/files/3132/40/camera-1.16.4-1.0.7.jar"
+hash-format = "murmur2"
+hash = "1609993623"
+
+[update]
+[update.curseforge]
+file-id = 3132040
+project-id = 289310
+release-channel = "beta"

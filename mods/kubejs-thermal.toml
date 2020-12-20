@@ -1,0 +1,14 @@
+name = "KubeJS Thermal"
+filename = "kubejs-thermal-1604.1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3123/53/kubejs-thermal-1604.1.0.5.jar"
+hash-format = "murmur2"
+hash = "618222043"
+
+[update]
+[update.curseforge]
+file-id = 3123053
+project-id = 421694
+release-channel = "beta"

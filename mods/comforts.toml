@@ -1,0 +1,14 @@
+name = "Comforts"
+filename = "comforts-forge-1.16.4-4.0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3143/312/comforts-forge-1.16.4-4.0.0.3.jar"
+hash-format = "murmur2"
+hash = "1377145101"
+
+[update]
+[update.curseforge]
+file-id = 3143312
+project-id = 276951
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Macaw's Trapdoors"
+filename = "mcw-trapdors-1.0.0-mc1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/989/mcw-trapdors-1.0.0-mc1.16.4.jar"
+hash-format = "murmur2"
+hash = "677916210"
+
+[update]
+[update.curseforge]
+file-id = 3100989
+project-id = 400933
+release-channel = "beta"

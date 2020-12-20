@@ -1,0 +1,14 @@
+name = "XNet Gases"
+filename = "XNetGases-1.16.4-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3132/210/XNetGases-1.16.4-2.1.1.jar"
+hash-format = "murmur2"
+hash = "3224294749"
+
+[update]
+[update.curseforge]
+file-id = 3132210
+project-id = 383182
+release-channel = "beta"

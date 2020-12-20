@@ -1,0 +1,14 @@
+name = "Farming for Blockheads"
+filename = "FarmingForBlockheads_1.16.3-7.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3098/206/FarmingForBlockheads_1.16.3-7.2.1.jar"
+hash-format = "murmur2"
+hash = "1706000304"
+
+[update]
+[update.curseforge]
+file-id = 3098206
+project-id = 261924
+release-channel = "beta"

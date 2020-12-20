@@ -1,0 +1,14 @@
+name = "JAOPCA"
+filename = "JAOPCA-1.16.4-3.4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3118/787/JAOPCA-1.16.4-3.4.0.1.jar"
+hash-format = "murmur2"
+hash = "1771679917"
+
+[update]
+[update.curseforge]
+file-id = 3118787
+project-id = 266936
+release-channel = "beta"

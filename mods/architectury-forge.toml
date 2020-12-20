@@ -1,0 +1,14 @@
+name = "Architectury (Forge)"
+filename = "architectury-1.1.55-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge-service.overwolf.wtf/files/3128/224/architectury-1.1.55-forge.jar"
+hash-format = "murmur2"
+hash = "3159994841"
+
+[update]
+[update.curseforge]
+file-id = 3128224
+project-id = 419699
+release-channel = "beta"

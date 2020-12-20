@@ -1,0 +1,14 @@
+name = "Macaw's Bridges"
+filename = "mcw-bridges-1.0.4-mc1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/993/mcw-bridges-1.0.4-mc1.16.4.jar"
+hash-format = "murmur2"
+hash = "1038983084"
+
+[update]
+[update.curseforge]
+file-id = 3100993
+project-id = 351725
+release-channel = "beta"

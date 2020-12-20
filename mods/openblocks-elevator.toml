@@ -1,0 +1,14 @@
+name = "OpenBlocks Elevator"
+filename = "elevatorid-1.16.4-1.7.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3110/386/elevatorid-1.16.4-1.7.8.jar"
+hash-format = "murmur2"
+hash = "1392880177"
+
+[update]
+[update.curseforge]
+file-id = 3110386
+project-id = 250832
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Dynamic View"
+filename = "dynviewdist-1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3051/535/dynviewdist-1.7.jar"
+hash-format = "murmur2"
+hash = "3012570986"
+
+[update]
+[update.curseforge]
+file-id = 3051535
+project-id = 366140
+release-channel = "beta"

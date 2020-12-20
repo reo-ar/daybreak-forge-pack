@@ -1,0 +1,14 @@
+name = "Flat Bedrock"
+filename = "flatbedrock-1.16.4-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/290/flatbedrock-1.16.4-1.1.6.jar"
+hash-format = "murmur2"
+hash = "523511193"
+
+[update]
+[update.curseforge]
+file-id = 3100290
+project-id = 398623
+release-channel = "beta"

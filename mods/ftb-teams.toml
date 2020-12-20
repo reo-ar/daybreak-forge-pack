@@ -1,0 +1,14 @@
+name = "FTB Teams"
+filename = "ftb-teams-1604.1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3132/239/ftb-teams-1604.1.0.13.jar"
+hash-format = "murmur2"
+hash = "3974057540"
+
+[update]
+[update.curseforge]
+file-id = 3132239
+project-id = 404468
+release-channel = "beta"

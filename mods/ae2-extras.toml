@@ -1,0 +1,14 @@
+name = "AE2 Extras"
+filename = "ae2extras-1.1-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3139/244/ae2extras-1.1-1.16.4.jar"
+hash-format = "murmur2"
+hash = "1203124432"
+
+[update]
+[update.curseforge]
+file-id = 3139244
+project-id = 421104
+release-channel = "beta"

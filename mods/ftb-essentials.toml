@@ -1,0 +1,14 @@
+name = "FTB Essentials"
+filename = "ftbessentials-1603.1.0.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3105/205/ftbessentials-1603.1.0.11.jar"
+hash-format = "murmur2"
+hash = "2419829907"
+
+[update]
+[update.curseforge]
+file-id = 3105205
+project-id = 410811
+release-channel = "beta"

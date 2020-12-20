@@ -1,0 +1,12 @@
+name = "Daybreak"
+author = "reo-ar"
+version = "0.0.1"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dc76e50c86efdd92e44e6f88d6b010c762f0db21a46a6cbdada10a2e16c413cf"
+
+[versions]
+forge = "35.1.13"
+minecraft = "1.16.4"

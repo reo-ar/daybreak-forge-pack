@@ -1,0 +1,14 @@
+name = "Ice and Fire: Dragons"
+filename = "iceandfire-2.1.4-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3135/854/iceandfire-2.1.4-1.16.4.jar"
+hash-format = "murmur2"
+hash = "97464505"
+
+[update]
+[update.curseforge]
+file-id = 3135854
+project-id = 264231
+release-channel = "beta"

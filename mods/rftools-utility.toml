@@ -1,0 +1,14 @@
+name = "RFTools Utility"
+filename = "rftoolsutility-1.16-3.0.19.jar"
+side = "both"
+
+[download]
+url = "https://edge-service.overwolf.wtf/files/3131/250/rftoolsutility-1.16-3.0.19.jar"
+hash-format = "murmur2"
+hash = "367556544"
+
+[update]
+[update.curseforge]
+file-id = 3131250
+project-id = 342466
+release-channel = "beta"

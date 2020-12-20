@@ -1,0 +1,14 @@
+name = "Emojiful"
+filename = "emojiful-1.16.3-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3099/65/emojiful-1.16.3-2.1.1.jar"
+hash-format = "murmur2"
+hash = "1754558554"
+
+[update]
+[update.curseforge]
+file-id = 3099065
+project-id = 284324
+release-channel = "beta"

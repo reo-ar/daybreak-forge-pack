@@ -1,0 +1,14 @@
+name = "Platforms"
+filename = "platforms-1.16-1.7.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3125/52/platforms-1.16-1.7.8.jar"
+hash-format = "murmur2"
+hash = "1493691559"
+
+[update]
+[update.curseforge]
+file-id = 3125052
+project-id = 244786
+release-channel = "beta"

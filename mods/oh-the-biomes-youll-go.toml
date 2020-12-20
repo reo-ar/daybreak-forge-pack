@@ -1,0 +1,14 @@
+name = "Oh The Biomes You'll Go"
+filename = "byg-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3110/197/byg-1.1.5.jar"
+hash-format = "murmur2"
+hash = "1044449230"
+
+[update]
+[update.curseforge]
+file-id = 3110197
+project-id = 247560
+release-channel = "beta"

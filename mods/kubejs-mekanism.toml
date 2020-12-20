@@ -1,0 +1,14 @@
+name = "KubeJS Mekanism"
+filename = "kubejs-mekanism-1604.1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3137/525/kubejs-mekanism-1604.1.1.5.jar"
+hash-format = "murmur2"
+hash = "3986219611"
+
+[update]
+[update.curseforge]
+file-id = 3137525
+project-id = 418651
+release-channel = "beta"

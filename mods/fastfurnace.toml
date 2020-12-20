@@ -1,0 +1,14 @@
+name = "FastFurnace"
+filename = "FastFurnace-1.16.3-4.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3069/48/FastFurnace-1.16.3-4.3.0.jar"
+hash-format = "murmur2"
+hash = "560488081"
+
+[update]
+[update.curseforge]
+file-id = 3069048
+project-id = 299540
+release-channel = "beta"

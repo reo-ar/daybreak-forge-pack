@@ -1,0 +1,14 @@
+name = "ShetiPhianCore"
+filename = "shetiphiancore-1.16-3.8.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3090/382/shetiphiancore-1.16-3.8.4.jar"
+hash-format = "murmur2"
+hash = "297737876"
+
+[update]
+[update.curseforge]
+file-id = 3090382
+project-id = 71738
+release-channel = "beta"

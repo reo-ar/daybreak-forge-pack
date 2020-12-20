@@ -1,0 +1,14 @@
+name = "Cosmetic Armor Reworked"
+filename = "CosmeticArmorReworked-1.16.4-v1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/879/CosmeticArmorReworked-1.16.4-v1.jar"
+hash-format = "murmur2"
+hash = "3519361496"
+
+[update]
+[update.curseforge]
+file-id = 3100879
+project-id = 237307
+release-channel = "beta"

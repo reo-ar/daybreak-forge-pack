@@ -1,0 +1,14 @@
+name = "Citadel"
+filename = "citadel-1.5.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3131/923/citadel-1.5.3.jar"
+hash-format = "murmur2"
+hash = "762405284"
+
+[update]
+[update.curseforge]
+file-id = 3131923
+project-id = 331936
+release-channel = "beta"

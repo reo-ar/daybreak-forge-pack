@@ -1,0 +1,14 @@
+name = "Dank Storage"
+filename = "dankstorage-3.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3141/785/dankstorage-3.13.jar"
+hash-format = "murmur2"
+hash = "2988415167"
+
+[update]
+[update.curseforge]
+file-id = 3141785
+project-id = 335673
+release-channel = "beta"

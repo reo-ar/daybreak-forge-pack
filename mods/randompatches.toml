@@ -1,0 +1,14 @@
+name = "RandomPatches"
+filename = "randompatches-1.16.4-1.22.1.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3139/304/randompatches-1.16.4-1.22.1.11.jar"
+hash-format = "murmur2"
+hash = "1959826631"
+
+[update]
+[update.curseforge]
+file-id = 3139304
+project-id = 285612
+release-channel = "beta"

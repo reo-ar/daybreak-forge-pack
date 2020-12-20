@@ -1,0 +1,14 @@
+name = "Macaw's Windows"
+filename = "mcw-windows-1.0.2-mc1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/994/mcw-windows-1.0.2-mc1.16.4.jar"
+hash-format = "murmur2"
+hash = "1317257313"
+
+[update]
+[update.curseforge]
+file-id = 3100994
+project-id = 363569
+release-channel = "beta"
