@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "http://www.whale.ga/davidwantedthis.jar"
 hash-format = "sha256"
-hash = "210205a6216f345b4e7af01c8d51ba7633266af610d56c01ae1d9a35a72677d2
+hash = "210205a6216f345b4e7af01c8d51ba7633266af610d56c01ae1d9a35a72677d2"
