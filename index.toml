@@ -31,6 +31,11 @@ hash = "3990ea25a0520161c7130695716d043469d92844d688c7648c2d9b39a7384f93"
 metafile = true
 
 [[files]]
+file = "mods/ato.toml"
+hash = "aa0f4b2868721a39b6438280bc609de105ee182ce3bd5a2e96d55126b6a8809d"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.toml"
 hash = "0fe6c49e2935b9b7dbc673f64ba4f63945e282e2570c3a9a3249362df8740005"
 metafile = true
@@ -182,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.toml"
-hash = "c25dc012984732150a8a30b36c11403693982ab57e0fb93efd55d08d225580ae"
+hash = "29ac66bae17096cb62803c0b0a1302f10c1f792447e54c188c5948553ba22c89"
 metafile = true
 
 [[files]]

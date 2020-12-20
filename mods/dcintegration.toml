@@ -1,6 +1,6 @@
 name = "Discord Integration"
 filename = "dcintegration-2.0.2-1.16.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3118/761/dcintegration-2.0.2-1.16.jar"
