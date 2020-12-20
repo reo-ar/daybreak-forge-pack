@@ -1,0 +1,14 @@
+name = "Valhelsia Structures"
+filename = "valhelsia_structures-16.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge-service.overwolf.wtf/files/3089/925/valhelsia_structures-16.0.5.jar"
+hash-format = "murmur2"
+hash = "1504263528"
+
+[update]
+[update.curseforge]
+file-id = 3089925
+project-id = 347488
+release-channel = "beta"

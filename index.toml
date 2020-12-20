@@ -341,6 +341,11 @@ hash = "f1cdf4d10035d6a17cd24acd321fe85af9097929f01fa632d5a66aeae29a2988"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.toml"
+hash = "32ffcdebebf7c0982e983a20747c524cf6de654bb1bf441e437b1f8eb48e16d5"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.toml"
 hash = "0f51c7acefac8c54e5288cd1af9dad621367d929f6e5e20704261b5c581f3e52"
 metafile = true
@@ -576,6 +581,11 @@ hash = "809ea17c279cb0d3874d7f18f51a0e73a31b96ac97929a1a0ff0f53e20d43ac3"
 metafile = true
 
 [[files]]
+file = "mods/snow-real-magic.toml"
+hash = "a64fcd1b2289bac5775882963d36002c30c4d24c656c94833b965be39efadb68"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.toml"
 hash = "e1c49e5a27003c95447eea2d39878c9db880720b2e86b9cd6a433e2323088cbd"
 metafile = true
@@ -648,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/useful-railroads.toml"
 hash = "2611b3d8e7ea2418a5f483b330451459a45c86b75707bcc11c5640249664aebe"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.toml"
+hash = "479bb59aee03972aad6e5c8e41cfc0e9f82c2497904fbf7a5834a1575bc7e7aa"
 metafile = true
 
 [[files]]
