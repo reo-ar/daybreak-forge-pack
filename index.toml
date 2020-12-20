@@ -181,6 +181,11 @@ hash = "159a0c67b77c0a44c7a2c6e43d31ba6183f0841daf0c2ac71b62d842be554964"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.toml"
+hash = "c25dc012984732150a8a30b36c11403693982ab57e0fb93efd55d08d225580ae"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-crawl.toml"
 hash = "444afb3feccc5a8a0faf5a25e192582e612303ed720239e703bf202ac008f526"
 metafile = true
