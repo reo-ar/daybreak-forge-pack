@@ -451,11 +451,6 @@ hash = "687e22d6053d8de4f3ad750516ffec16060686c71252b7207cab12b0c7793577"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-youll-go.toml"
-hash = "38eeb1dd7b65cca8e219496a4eb7d70e5c092594744d1301dc61dfe734dbcb0d"
-metafile = true
-
-[[files]]
 file = "mods/openblocks-elevator.toml"
 hash = "a19ca02d19cf4b68bd63e627af002ab13e844e5b456a11ebb0abeeeade3d0b46"
 metafile = true
