@@ -16,11 +16,6 @@ hash = "fcce351db78e758cd5c4a76f6a3d00fea4d67868627144c572759db48cb4092b"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.toml"
-hash = "30121200e7592259ac70ffd18f23308d8e78e71f596baa431218f57e117de262"
-metafile = true
-
-[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "1a952b094773d3c74d9547cf0f59b2bfd8fa8b538a2e85b02f4f0ec96bca18f3"
 metafile = true
