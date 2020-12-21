@@ -66,6 +66,11 @@ hash = "77a3217c99608102e3418d03d506016aba7eb54b589054aa9454af1a6e5a7b10"
 metafile = true
 
 [[files]]
+file = "mods/blame.toml"
+hash = "d543fa2c78c6e9d6c97cef00fab690929aaf57be983b94b6da9319fdc255e1f7"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.toml"
 hash = "9e0ccc790cd06c8138a5936ff74452aa6735e8c3c4b790b8c0d176c725c860f1"
 metafile = true
