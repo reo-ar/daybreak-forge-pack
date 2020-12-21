@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.toml"
-hash = "f3e8e5b3673c0fb5e6b3a9e03b997d95d9ad42792c2c1b2d158c10cc90c1ccef"
+hash = "30121200e7592259ac70ffd18f23308d8e78e71f596baa431218f57e117de262"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.toml"
-hash = "0c14e074a66e8b4a6313b768f88f7e4b41144da8a43844b51dc2f67c50fe4e33"
+hash = "6734895138279df81068953e17a8ccc7e628cfc6c9ca9b7110fff726700c9e6c"
 metafile = true
 
 [[files]]
