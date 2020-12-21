@@ -551,6 +551,11 @@ hash = "973870f7d4d2ae9bc16c08f2d2051ff91e49bfaec7532df4460c4f23775f5713"
 metafile = true
 
 [[files]]
+file = "mods/reload-audio-driver-rad.toml"
+hash = "97fd9b88b8a926fd9827a14851fc420e0adfee640c7fe44e7c712e380f2366dd"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.toml"
 hash = "fe8522c02bb3a3772f21066b3b362aa936b77521210b0007fa34dbf946df5476"
 metafile = true
