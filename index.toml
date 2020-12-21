@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/reload-audio-driver-rad.toml"
-hash = "97fd9b88b8a926fd9827a14851fc420e0adfee640c7fe44e7c712e380f2366dd"
+hash = "069f718ac6b6292b42b9c1fe175e98c64e51be44738268e4a0f11f91e8c0c3d6"
 metafile = true
 
 [[files]]
