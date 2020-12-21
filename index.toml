@@ -16,6 +16,11 @@ hash = "fcce351db78e758cd5c4a76f6a3d00fea4d67868627144c572759db48cb4092b"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.toml"
+hash = "f3e8e5b3673c0fb5e6b3a9e03b997d95d9ad42792c2c1b2d158c10cc90c1ccef"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "1a952b094773d3c74d9547cf0f59b2bfd8fa8b538a2e85b02f4f0ec96bca18f3"
 metafile = true
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/create.toml"
 hash = "34c1ae5464b79fd123aaec86a51f025483841e6058138e4bb7d68c2973d63dbc"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.toml"
+hash = "0c14e074a66e8b4a6313b768f88f7e4b41144da8a43844b51dc2f67c50fe4e33"
 metafile = true
 
 [[files]]
