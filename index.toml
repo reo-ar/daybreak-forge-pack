@@ -31,11 +31,6 @@ hash = "ce64487595a8234719e88b8c54514383a07dca4d1f541cd1af59662f65983e30"
 metafile = true
 
 [[files]]
-file = "mods/ato.toml"
-hash = "aa0f4b2868721a39b6438280bc609de105ee182ce3bd5a2e96d55126b6a8809d"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.toml"
 hash = "0fe6c49e2935b9b7dbc673f64ba4f63945e282e2570c3a9a3249362df8740005"
 metafile = true
