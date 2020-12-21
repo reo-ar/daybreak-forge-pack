@@ -196,6 +196,11 @@ hash = "444afb3feccc5a8a0faf5a25e192582e612303ed720239e703bf202ac008f526"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-plus.toml"
+hash = "ae6ef95a851e59b0201159162e4a0d3b50a3780a9366f187cc68718e1697d9fc"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.toml"
 hash = "e24c59dd837df5c89c423dbe4293e245690d3f8466a90aa394eb0acd36522624"
 metafile = true
@@ -596,6 +601,11 @@ hash = "e1c49e5a27003c95447eea2d39878c9db880720b2e86b9cd6a433e2323088cbd"
 metafile = true
 
 [[files]]
+file = "mods/structure-gel-api.toml"
+hash = "fdacc582c30515ffa4b956fd6ffea855f611c2d2abb901d96d84227cbeb13b7b"
+metafile = true
+
+[[files]]
 file = "mods/terraforged.toml"
 hash = "a7a4180f8f5e6b686f9f0754cd4bd08a16a6a085dc29d7fcc55aa3cbe24768c6"
 metafile = true
@@ -623,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.toml"
 hash = "de4da9ba77e4e2d1d147604ae5a31b41704aaa6e2e1b22a3d432cdff18ea2f6b"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild.toml"
+hash = "76d07158508222fed20e4bddec3f56d8b92782f479fade2fd8f0a21ee00e639a"
 metafile = true
 
 [[files]]
