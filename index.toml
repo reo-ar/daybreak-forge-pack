@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-gadgets.toml"
-hash = "211c24058119b0b10dbf17ae02e912aff9f4a8bf1f4bcbddaaf1b2798d543742"
+hash = "fb79388bbf34950c25b2593b2437399ce49aed72a7528764af03a6a9102bd391"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-utilities.toml"
-hash = "92e9669c38133287c84c2f8ff2c96006946ec1f9fffb735492c4c4e1c9549b78"
+hash = "3673dfbdd7d089838b52c54fe4529745dfec18e1609d1f47ac1cc2ff8d07705d"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/trash-cans.toml"
-hash = "84f414a88dd81043a1ab8b87594d477fb7c643f70e31688ee7e172a146bdc050"
+hash = "630edc3d77dec51428da8046dc1d511300309b8c95103a239e0749cade3485e4"
 metafile = true
 
 [[files]]
