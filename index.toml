@@ -641,11 +641,6 @@ hash = "de4da9ba77e4e2d1d147604ae5a31b41704aaa6e2e1b22a3d432cdff18ea2f6b"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild.toml"
-hash = "76d07158508222fed20e4bddec3f56d8b92782f479fade2fd8f0a21ee00e639a"
-metafile = true
-
-[[files]]
 file = "mods/trash-cans.toml"
 hash = "84f414a88dd81043a1ab8b87594d477fb7c643f70e31688ee7e172a146bdc050"
 metafile = true
@@ -708,11 +703,6 @@ metafile = true
 [[files]]
 file = "mods/xnet.toml"
 hash = "29ff9f8817e70f3ffd022a8ffa47469df81dbc81e2993b4ca74937ad72a1d188"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-caves.toml"
-hash = "4d6ce96075990a25b7da5c0e7a072492db1dcfffa30ce10dadcbb7a0fd4b8566"
 metafile = true
 
 [[files]]
