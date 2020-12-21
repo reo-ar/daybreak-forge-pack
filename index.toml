@@ -201,11 +201,6 @@ hash = "9a716309f975795ff915a3238401b8770dd71b15aed7b1aeffe71bbcce6a7c37"
 metafile = true
 
 [[files]]
-file = "mods/dungeons-plus.toml"
-hash = "ae6ef95a851e59b0201159162e4a0d3b50a3780a9366f187cc68718e1697d9fc"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-view.toml"
 hash = "e24c59dd837df5c89c423dbe4293e245690d3f8466a90aa394eb0acd36522624"
 metafile = true
@@ -511,6 +506,11 @@ hash = "84d24035b55ffb72c6654d48fc52a2c60c13063baf0440af1c60080999968dc9"
 metafile = true
 
 [[files]]
+file = "mods/prefab.toml"
+hash = "f75a08c10c98de78a347f5e78cb657624e217e8bb386a9e498bccc16d8873274"
+metafile = true
+
+[[files]]
 file = "mods/quark.toml"
 hash = "04c793378d4087ec31857c224e4589ecda2fe35c7599954b5b9f31ae72ffef15"
 metafile = true
@@ -603,11 +603,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.toml"
 hash = "e1c49e5a27003c95447eea2d39878c9db880720b2e86b9cd6a433e2323088cbd"
-metafile = true
-
-[[files]]
-file = "mods/structure-gel-api.toml"
-hash = "fdacc582c30515ffa4b956fd6ffea855f611c2d2abb901d96d84227cbeb13b7b"
 metafile = true
 
 [[files]]
