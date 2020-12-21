@@ -1,0 +1,14 @@
+name = "Dungeons Plus"
+filename = "dungeons-plus-1.16.4-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3120/61/dungeons-plus-1.16.4-1.1.0.jar"
+hash-format = "murmur2"
+hash = "2321212899"
+
+[update]
+[update.curseforge]
+file-id = 3120061
+project-id = 377794
+release-channel = "beta"

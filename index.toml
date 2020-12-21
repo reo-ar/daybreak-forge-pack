@@ -201,6 +201,16 @@ hash = "9a716309f975795ff915a3238401b8770dd71b15aed7b1aeffe71bbcce6a7c37"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-crawl.toml"
+hash = "444afb3feccc5a8a0faf5a25e192582e612303ed720239e703bf202ac008f526"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-plus.toml"
+hash = "ae6ef95a851e59b0201159162e4a0d3b50a3780a9366f187cc68718e1697d9fc"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.toml"
 hash = "e24c59dd837df5c89c423dbe4293e245690d3f8466a90aa394eb0acd36522624"
 metafile = true
@@ -471,6 +481,11 @@ hash = "a19ca02d19cf4b68bd63e627af002ab13e844e5b456a11ebb0abeeeade3d0b46"
 metafile = true
 
 [[files]]
+file = "mods/overloaded-armor-bar.toml"
+hash = "cff49d7817c9fb780a4a76126d5d75fe6a8caecd9d61da003fcaea399ac23433"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "49dc2073620f057a76a7aa3475a267bab32b632801427ed59709f92d0a0efe50"
 metafile = true
@@ -606,6 +621,11 @@ hash = "e1c49e5a27003c95447eea2d39878c9db880720b2e86b9cd6a433e2323088cbd"
 metafile = true
 
 [[files]]
+file = "mods/structure-gel-api.toml"
+hash = "fdacc582c30515ffa4b956fd6ffea855f611c2d2abb901d96d84227cbeb13b7b"
+metafile = true
+
+[[files]]
 file = "mods/terraforged.toml"
 hash = "a7a4180f8f5e6b686f9f0754cd4bd08a16a6a085dc29d7fcc55aa3cbe24768c6"
 metafile = true
@@ -613,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/tetra.toml"
 hash = "6d4c78ac53b02d1a2cce20cdfe7e2b24196c1f66085cf2e6505dc0e2ca6ec355"
+metafile = true
+
+[[files]]
+file = "mods/the-mighty-architect.toml"
+hash = "416b530e52f4501d139d12cdedb5dcd776c500aa0187438449bd5a6090ee438c"
 metafile = true
 
 [[files]]
@@ -698,6 +723,11 @@ metafile = true
 [[files]]
 file = "mods/xnet.toml"
 hash = "29ff9f8817e70f3ffd022a8ffa47469df81dbc81e2993b4ca74937ad72a1d188"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.toml"
+hash = "4d6ce96075990a25b7da5c0e7a072492db1dcfffa30ce10dadcbb7a0fd4b8566"
 metafile = true
 
 [[files]]
