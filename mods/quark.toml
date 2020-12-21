@@ -1,14 +1,14 @@
 name = "Quark"
-filename = "Quark-r2.4-280.jar"
+filename = "Quark-r2.4-281.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3139/878/Quark-r2.4-280.jar"
+url = "https://edge.forgecdn.net/files/3144/658/Quark-r2.4-281.jar"
 hash-format = "murmur2"
-hash = "1126745136"
+hash = "3982328958"
 
 [update]
 [update.curseforge]
-file-id = 3139878
+file-id = 3144658
 project-id = 243121
 release-channel = "beta"

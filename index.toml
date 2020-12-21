@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "3990ea25a0520161c7130695716d043469d92844d688c7648c2d9b39a7384f93"
+hash = "ce64487595a8234719e88b8c54514383a07dca4d1f541cd1af59662f65983e30"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks.toml"
-hash = "d1b0ef26127d0c91915c4d8224497109031e77104d5b805654989921cba0972e"
+hash = "1ce7249ec488a2e9884cc284085980b5a3566ff0499297b41d4a4fdfa41e6d44"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "024f7aa800083fd1b91461b94a13d7487467e14c1abceeb4f03cb0fec51274f9"
+hash = "04c793378d4087ec31857c224e4589ecda2fe35c7599954b5b9f31ae72ffef15"
 metafile = true
 
 [[files]]
