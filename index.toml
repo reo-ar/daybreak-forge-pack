@@ -706,11 +706,6 @@ hash = "29ff9f8817e70f3ffd022a8ffa47469df81dbc81e2993b4ca74937ad72a1d188"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-caves.toml"
-hash = "4d6ce96075990a25b7da5c0e7a072492db1dcfffa30ce10dadcbb7a0fd4b8566"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-mineshafts-forge.toml"
 hash = "6bee87498e1e5077b2ded0a3146e6600d21b93b3a29f02ba0113ff51018a7bcb"
 metafile = true
