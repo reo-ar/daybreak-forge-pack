@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/optiforge.toml"
-hash = "032290b7567a4557bfb0374792242be486a749730a256d5ba66ae5caf8113955"
+hash = "99fc03d46d2530086dd7050c878e3205bca2bf177b34aca8a67e185d78ceb5a1"
 metafile = true
 
 [[files]]
