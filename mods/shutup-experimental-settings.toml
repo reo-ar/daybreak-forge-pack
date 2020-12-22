@@ -1,6 +1,6 @@
 name = "Shutup Experimental Settings!"
 filename = "shutupexperimentalsettings-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3090/291/shutupexperimentalsettings-1.0.1.jar"

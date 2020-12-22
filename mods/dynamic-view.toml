@@ -1,6 +1,6 @@
 name = "Dynamic View"
 filename = "dynviewdist-1.7.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3051/535/dynviewdist-1.7.jar"
