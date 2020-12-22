@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/blame.toml"
-hash = "0bce8213533c3f16cc8e4dccaf34e96ca9e5242b4279be58a5a6d1d93909970d"
+hash = "3fde1c41853a4da97f068a4cd524f0dde6357867f9d42c3d2800a61a6dfca6c4"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-utilities.toml"
-hash = "3673dfbdd7d089838b52c54fe4529745dfec18e1609d1f47ac1cc2ff8d07705d"
+hash = "c5e4b4b626e1eed20f0e78407cfd3df2f5708e5f1f76e8214d14e7e9cd04ba03"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.toml"
-hash = "29ac66bae17096cb62803c0b0a1302f10c1f792447e54c188c5948553ba22c89"
+hash = "c25dc012984732150a8a30b36c11403693982ab57e0fb93efd55d08d225580ae"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-view.toml"
-hash = "e24c59dd837df5c89c423dbe4293e245690d3f8466a90aa394eb0acd36522624"
+hash = "e7fbdeaef977aed313d49eeceac453fd3aedcaeac92369a834e649e3cd487ead"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.toml"
-hash = "67420528fe789e8fece0f20ccfab8c739e4eb403e65b67248af81a44dc4882b5"
+hash = "c2364818d6a58a00c116c7caf964c049d325b1453ffc26afd0fb030dfef3c758"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.toml"
-hash = "36bfc62ce0a04751c838bffc6f1df07226df42705638ff314041873aa378b7d0"
+hash = "63aba64aaf74e701d71a96999b9938da3f2290e6bb7ce92139395231e7a58b63"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-name-tooltip.toml"
-hash = "e4d2c23d58ff5fe86252584c4d18378dbb4c751c2a0bc6573f8d987a4f35e38e"
+hash = "694a5dd7bd112429997a1d72d332bd16ad830b56453fbb6fa36d6940890b8178"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "ebf90c51523880425d21814688a9fa319a733e4c498d1e55dcac0f1a0bb9cd5e"
+hash = "ac9156c7cf532369b7992170088c32e0e7efa96501f149ca86417b8967d045a1"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.toml"
-hash = "3c413b8e5058c9767e13760710d84aa5629bfa61b71aba57546c859a6965cf77"
+hash = "09f854e20c1b325ce0f4180a700323168013fe18251471549021fb79b214b220"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/shutup-experimental-settings.toml"
-hash = "f3f4a941d3dbef3ecace9f2ea332d61df0bc0442504ff368770f9b4cbd066c86"
+hash = "eac60c92fff005d14f96393104e44a620163f4e47b242fd0af6ca026040588d3"
 metafile = true
 
 [[files]]
