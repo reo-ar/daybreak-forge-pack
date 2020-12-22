@@ -481,6 +481,11 @@ hash = "a19ca02d19cf4b68bd63e627af002ab13e844e5b456a11ebb0abeeeade3d0b46"
 metafile = true
 
 [[files]]
+file = "mods/optiforge.toml"
+hash = "032290b7567a4557bfb0374792242be486a749730a256d5ba66ae5caf8113955"
+metafile = true
+
+[[files]]
 file = "mods/overloaded-armor-bar.toml"
 hash = "cff49d7817c9fb780a4a76126d5d75fe6a8caecd9d61da003fcaea399ac23433"
 metafile = true
