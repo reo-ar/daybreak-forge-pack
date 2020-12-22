@@ -6,6 +6,11 @@ hash = "9ce5dd192fe445a18df222d5f1749fa8f0bb4f7d377076a0736b0a18a3b222b5"
 metafile = true
 
 [[files]]
+file = "mods/advanced-chimneys.toml"
+hash = "5e95a8604498611164e120b03a9a0c92ed9f028e8494923583ddff203b5e30bb"
+metafile = true
+
+[[files]]
 file = "mods/advanced-mining-dimension.toml"
 hash = "0849e8e8384bc710997d4d686c118027fd5c9aa9f0b5ef85d1883d5e92a8f784"
 metafile = true
@@ -273,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.toml"
 hash = "bae868c668813c91f9b8d0603d3bc8c19207adc6b656f53a973cc2052736fdc3"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.toml"
+hash = "98cf37e4d3661cda51520a1d15647dc79642cdcae64e9ab768b46c98c2eb1e09"
 metafile = true
 
 [[files]]
