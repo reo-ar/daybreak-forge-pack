@@ -241,6 +241,11 @@ hash = "cfc63b5b7e4572db794786263c82cbe5c6ba8c99d491821b47db323c973e5335"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights.toml"
+hash = "24cd00fe989a6dacbf1c7eda932cb76db3e65cfe5bbf32e8ef135b96b60d6b37"
+metafile = true
+
+[[files]]
 file = "mods/farming-for-blockheads.toml"
 hash = "08d04bc17b1fb7eeb03a8a759d4cc8a2b445278920fd26c24a0418ed64440f18"
 metafile = true
