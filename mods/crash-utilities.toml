@@ -1,6 +1,6 @@
 name = "Crash Utilities"
 filename = "crashutilities-3.8.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3144/322/crashutilities-3.8.1.jar"
