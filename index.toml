@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "ce64487595a8234719e88b8c54514383a07dca4d1f541cd1af59662f65983e30"
+hash = "acc991ce0736f85420a3829d4a0982ff5761e0ef89254bd0ca1dc311bdbb0bc2"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/blame.toml"
-hash = "d543fa2c78c6e9d6c97cef00fab690929aaf57be983b94b6da9319fdc255e1f7"
+hash = "0bce8213533c3f16cc8e4dccaf34e96ca9e5242b4279be58a5a6d1d93909970d"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.toml"
-hash = "1bf9f988b0a8774dbe1b8f8a487b357f76ca62a98fe871689c493ff11fd2d4c4"
+hash = "cf5248044bb90f29d9d32a593ad2d11b975123ee917f5d8c251c968e2ac595fc"
 metafile = true
 
 [[files]]
@@ -737,5 +737,5 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.toml"
-hash = "6bee87498e1e5077b2ded0a3146e6600d21b93b3a29f02ba0113ff51018a7bcb"
+hash = "22b8a3c36bf6598fb30783c66e8521845a62080a1f0b2e796a1c364b64e5b9e3"
 metafile = true
