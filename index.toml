@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclic.toml"
-hash = "286951cb7ab03d11743b7d59f4114174f61730e32359adfeb4506d0cd57c9563"
+hash = "da1650b60509713cd463c77e321968baa4a6988c119fe0ddfea2ac12150f616a"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "04c793378d4087ec31857c224e4589ecda2fe35c7599954b5b9f31ae72ffef15"
+hash = "6adaa0022b1773063329ed05d8eba069c1d39b06a300f4881bf7fe273133ac4b"
 metafile = true
 
 [[files]]
