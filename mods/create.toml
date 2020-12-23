@@ -1,14 +1,14 @@
 name = "Create"
-filename = "create-mc1.16.3_v0.3a.jar"
+filename = "create-mc1.16.3_v0.3b.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3143/387/create-mc1.16.3_v0.3a.jar"
+url = "https://edge.forgecdn.net/files/3146/74/create-mc1.16.3_v0.3b.jar"
 hash-format = "murmur2"
-hash = "2246007452"
+hash = "3450065096"
 
 [update]
 [update.curseforge]
-file-id = 3143387
+file-id = 3146074
 project-id = 328085
 release-channel = "beta"
