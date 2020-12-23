@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "acc991ce0736f85420a3829d4a0982ff5761e0ef89254bd0ca1dc311bdbb0bc2"
+hash = "723039cf112d19523aceb01814b8d4a65d5b7cc1492ae13f8ef79a0a28b5ce50"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.toml"
-hash = "34c1ae5464b79fd123aaec86a51f025483841e6058138e4bb7d68c2973d63dbc"
+hash = "ba05c681e8c08ed8ece5af07e1fd84f8fdcc5a2d03a1a41e6437f991eb85aba3"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.toml"
-hash = "cf5248044bb90f29d9d32a593ad2d11b975123ee917f5d8c251c968e2ac595fc"
+hash = "58419f275eb981b0c25485e42739a5ca24a8312c676a1ac87c102fb0a3717091"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "6adaa0022b1773063329ed05d8eba069c1d39b06a300f4881bf7fe273133ac4b"
+hash = "6671d6e62f73019b52e35f2b3b47d0474105d65d0cefc3be3572bbcca160e3d7"
 metafile = true
 
 [[files]]
