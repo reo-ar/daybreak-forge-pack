@@ -1,14 +1,14 @@
 name = "Blame (Forge)"
-filename = "blame-1.7.5.jar"
+filename = "blame-1.8.1.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3145/310/blame-1.7.5.jar"
+url = "https://edge.forgecdn.net/files/3163/204/blame-1.8.1.jar"
 hash-format = "murmur2"
-hash = "3390800573"
+hash = "3525592884"
 
 [update]
 [update.curseforge]
-file-id = 3145310
+file-id = 3163204
 project-id = 406201
 release-channel = "beta"

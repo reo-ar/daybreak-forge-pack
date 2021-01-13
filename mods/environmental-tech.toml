@@ -1,14 +1,14 @@
 name = "Environmental Tech"
-filename = "envirotech-1.16.4-3.0.5.1.jar"
+filename = "envirotech-1.16.4-3.0.6.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3142/867/envirotech-1.16.4-3.0.5.1.jar"
+url = "https://edge.forgecdn.net/files/3155/947/envirotech-1.16.4-3.0.6.1.jar"
 hash-format = "murmur2"
-hash = "3456347759"
+hash = "2797800248"
 
 [update]
 [update.curseforge]
-file-id = 3142867
+file-id = 3155947
 project-id = 245453
 release-channel = "beta"

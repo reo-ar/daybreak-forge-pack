@@ -1,14 +1,14 @@
 name = "TerraForged"
-filename = "TerraForged-1.16.4-0.2.0-ALPHA-4.jar"
+filename = "TerraForged-1.16.4-0.2.0-BETA-8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3144/548/TerraForged-1.16.4-0.2.0-ALPHA-4.jar"
+url = "https://edge.forgecdn.net/files/3163/463/TerraForged-1.16.4-0.2.0-BETA-8.jar"
 hash-format = "murmur2"
-hash = "3174972734"
+hash = "1221507289"
 
 [update]
 [update.curseforge]
-file-id = 3144548
+file-id = 3163463
 project-id = 363820
 release-channel = "beta"

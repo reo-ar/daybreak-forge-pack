@@ -1,14 +1,14 @@
 name = "OptiForge"
-filename = "OptiForge-MC1.16.4-0.4.3.jar"
+filename = "OptiForge-MC1.16.4-0.4.6.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3120/749/OptiForge-MC1.16.4-0.4.3.jar"
+url = "https://edge.forgecdn.net/files/3165/83/OptiForge-MC1.16.4-0.4.6.jar"
 hash-format = "murmur2"
-hash = "3747891160"
+hash = "70486177"
 
 [update]
 [update.curseforge]
-file-id = 3120749
+file-id = 3165083
 project-id = 372196
 release-channel = "beta"

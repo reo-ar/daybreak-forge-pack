@@ -1,14 +1,14 @@
 name = "🍊 Fruit Trees"
-filename = "FruitTrees-1.16.3-2.2.0.jar"
+filename = "FruitTrees-1.16.4-2.2.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3103/505/FruitTrees-1.16.3-2.2.0.jar"
+url = "https://edge.forgecdn.net/files/3164/912/FruitTrees-1.16.4-2.2.2.jar"
 hash-format = "murmur2"
-hash = "321943075"
+hash = "4150800957"
 
 [update]
 [update.curseforge]
-file-id = 3103505
+file-id = 3164912
 project-id = 355467
 release-channel = "beta"

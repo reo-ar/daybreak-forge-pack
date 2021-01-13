@@ -1,14 +1,14 @@
 name = "ForgeEndertech"
-filename = "ForgeEndertech-1.16.4-7.0.8.0-build.0028.jar"
+filename = "ForgeEndertech-1.16.4-7.0.9.0-build.0032.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3111/478/ForgeEndertech-1.16.4-7.0.8.0-build.0028.jar"
+url = "https://edge.forgecdn.net/files/3161/169/ForgeEndertech-1.16.4-7.0.9.0-build.0032.jar"
 hash-format = "murmur2"
-hash = "949126690"
+hash = "889498631"
 
 [update]
 [update.curseforge]
-file-id = 3111478
+file-id = 3161169
 project-id = 244844
 release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Decorative Blocks"
-filename = "decorative_blocks-1.16.4-1.6.2.jar"
+filename = "decorative_blocks-1.16.4-1.7.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3142/767/decorative_blocks-1.16.4-1.6.2.jar"
+url = "https://edge.forgecdn.net/files/3166/283/decorative_blocks-1.16.4-1.7.2.jar"
 hash-format = "murmur2"
-hash = "3209029133"
+hash = "2373058841"
 
 [update]
 [update.curseforge]
-file-id = 3142767
+file-id = 3166283
 project-id = 362528
 release-channel = "beta"
