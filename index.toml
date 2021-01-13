@@ -721,6 +721,11 @@ hash = "faa1f7e974bf9657adf9e1e92f44090471182022324b68cb08b64b5c242b5429"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft-forge-extensions.toml"
+hash = "d458bb6cb43f5739079eae6c9f11f3519993eb0dda9dc8bc54a0dc9038b20622"
+metafile = true
+
+[[files]]
 file = "mods/waystones.toml"
 hash = "3a79e9c37cbe03d812935deb175feea74adb768b3c01f112dce77e8467603874"
 metafile = true
