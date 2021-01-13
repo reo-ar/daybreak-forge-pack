@@ -1,14 +1,14 @@
 name = "Titanium"
-filename = "titanium-1.16.4-3.2.3.jar"
+filename = "titanium-1.16.4-3.2.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3143/177/titanium-1.16.4-3.2.3.jar"
+url = "https://edge.forgecdn.net/files/3163/247/titanium-1.16.4-3.2.5.jar"
 hash-format = "murmur2"
-hash = "776936043"
+hash = "3993692416"
 
 [update]
 [update.curseforge]
-file-id = 3143177
+file-id = 3163247
 project-id = 287342
 release-channel = "beta"

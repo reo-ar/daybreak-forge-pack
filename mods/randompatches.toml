@@ -1,14 +1,14 @@
-name = "RandomPatches"
-filename = "randompatches-1.16.4-1.22.1.11.jar"
+name = "RandomPatches (Forge)"
+filename = "randompatches-2.1.5-forge.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3139/304/randompatches-1.16.4-1.22.1.11.jar"
+url = "https://edge.forgecdn.net/files/3158/999/randompatches-2.1.5-forge.jar"
 hash-format = "murmur2"
-hash = "1959826631"
+hash = "1807375898"
 
 [update]
 [update.curseforge]
-file-id = 3139304
+file-id = 3158999
 project-id = 285612
 release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Industrial Foregoing"
-filename = "industrial-foregoing-1.16.4-3.2.6-c3ea663.jar"
+filename = "industrial-foregoing-1.16.4-3.2.8.1-f2c848c.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3143/186/industrial-foregoing-1.16.4-3.2.6-c3ea663.jar"
+url = "https://edge.forgecdn.net/files/3163/381/industrial-foregoing-1.16.4-3.2.8.1-f2c848c.jar"
 hash-format = "murmur2"
-hash = "494354570"
+hash = "867224777"
 
 [update]
 [update.curseforge]
-file-id = 3143186
+file-id = 3163381
 project-id = 266515
 release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Dank Storage"
-filename = "dankstorage-3.13.jar"
+filename = "dankstorage-3.14.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3141/785/dankstorage-3.13.jar"
+url = "https://edge.forgecdn.net/files/3161/863/dankstorage-3.14.jar"
 hash-format = "murmur2"
-hash = "2988415167"
+hash = "3786134363"
 
 [update]
 [update.curseforge]
-file-id = 3141785
+file-id = 3161863
 project-id = 335673
 release-channel = "beta"

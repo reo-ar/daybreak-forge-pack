@@ -1,14 +1,14 @@
 name = "Curios API (Forge)"
-filename = "curios-forge-1.16.4-4.0.3.0.jar"
+filename = "curios-forge-1.16.4-4.0.3.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3122/651/curios-forge-1.16.4-4.0.3.0.jar"
+url = "https://edge.forgecdn.net/files/3166/108/curios-forge-1.16.4-4.0.3.4.jar"
 hash-format = "murmur2"
-hash = "1615357073"
+hash = "1443244905"
 
 [update]
 [update.curseforge]
-file-id = 3122651
+file-id = 3166108
 project-id = 309927
 release-channel = "beta"

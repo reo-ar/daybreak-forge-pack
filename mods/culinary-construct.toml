@@ -1,14 +1,14 @@
 name = "Culinary Construct"
-filename = "culinaryconstruct-forge-1.16.3-4.0.0.1.jar"
+filename = "culinaryconstruct-forge-1.16.4-4.0.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge-service.overwolf.wtf/files/3068/934/culinaryconstruct-forge-1.16.3-4.0.0.1.jar"
+url = "https://edge.forgecdn.net/files/3154/862/culinaryconstruct-forge-1.16.4-4.0.0.2.jar"
 hash-format = "murmur2"
-hash = "1938664800"
+hash = "3918634637"
 
 [update]
 [update.curseforge]
-file-id = 3068934
+file-id = 3154862
 project-id = 296676
 release-channel = "beta"
