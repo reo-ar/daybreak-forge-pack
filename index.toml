@@ -416,11 +416,6 @@ hash = "8a2ac4edabf6010d5beb56d6a0d5c7d1b55ea0ce15f5594f821c480ca4097f93"
 metafile = true
 
 [[files]]
-file = "mods/its-the-little-things.toml"
-hash = "eba8d9ab26ed78ffa6ce583d0ecef97f70a560b93bf2a04b50b3b14be86aa62f"
-metafile = true
-
-[[files]]
 file = "mods/jei-integration.toml"
 hash = "9b91c62d619c927d705d83059f9859fa50cb9830732bf0ea10ff5ab44e6b522f"
 metafile = true
