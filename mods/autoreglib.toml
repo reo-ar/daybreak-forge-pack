@@ -3,7 +3,7 @@ filename = "AutoRegLib-1.6-47.jar"
 side = "both"
 
 [download]
-url = "https://edge-service.overwolf.wtf/files/3128/555/AutoRegLib-1.6-47.jar"
+url = "https://edge.forgecdn.net/files/3128/555/AutoRegLib-1.6-47.jar"
 hash-format = "murmur2"
 hash = "2240982638"
 

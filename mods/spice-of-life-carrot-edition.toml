@@ -1,0 +1,14 @@
+name = "Spice of Life: Carrot Edition"
+filename = "solcarrot-1.16.3-1.9.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3254/169/solcarrot-1.16.3-1.9.10.jar"
+hash-format = "murmur2"
+hash = "3886587238"
+
+[update]
+[update.curseforge]
+file-id = 3254169
+project-id = 277616
+release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Morpheus"
-filename = "Morpheus-1.16.4-4.2.68.jar"
+filename = "Morpheus-1.16.5-4.2.70.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3114/135/Morpheus-1.16.4-4.2.68.jar"
+url = "https://edge.forgecdn.net/files/3215/383/Morpheus-1.16.5-4.2.70.jar"
 hash-format = "murmur2"
-hash = "1154644746"
+hash = "2731782916"
 
 [update]
 [update.curseforge]
-file-id = 3114135
+file-id = 3215383
 project-id = 69118
 release-channel = "beta"

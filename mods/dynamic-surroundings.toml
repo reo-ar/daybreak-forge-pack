@@ -1,0 +1,14 @@
+name = "Dynamic Surroundings"
+filename = "DynamicSurroundings-1.16.4-4.0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3248/516/DynamicSurroundings-1.16.4-4.0.4.1.jar"
+hash-format = "murmur2"
+hash = "336728332"
+
+[update]
+[update.curseforge]
+file-id = 3248516
+project-id = 238891
+release-channel = "beta"

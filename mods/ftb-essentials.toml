@@ -1,14 +1,14 @@
 name = "FTB Essentials"
-filename = "ftbessentials-1603.1.0.11.jar"
+filename = "ftb-essentials-1604.1.0.13.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3105/205/ftbessentials-1603.1.0.11.jar"
+url = "https://edge.forgecdn.net/files/3170/610/ftb-essentials-1604.1.0.13.jar"
 hash-format = "murmur2"
-hash = "2419829907"
+hash = "3627275976"
 
 [update]
 [update.curseforge]
-file-id = 3105205
+file-id = 3170610
 project-id = 410811
 release-channel = "beta"

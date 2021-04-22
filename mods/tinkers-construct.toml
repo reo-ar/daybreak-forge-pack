@@ -1,0 +1,14 @@
+name = "Tinkers Construct"
+filename = "TConstruct-1.16.5-3.0.3.111.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3281/505/TConstruct-1.16.5-3.0.3.111.jar"
+hash-format = "murmur2"
+hash = "3639339675"
+
+[update]
+[update.curseforge]
+file-id = 3281505
+project-id = 74072
+release-channel = "beta"

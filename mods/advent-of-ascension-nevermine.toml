@@ -1,0 +1,14 @@
+name = "Advent of Ascension (Nevermine)"
+filename = "AoA3-3.5-1.16.5-Beta-4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3272/95/AoA3-3.5-1.16.5-Beta-4.jar"
+hash-format = "murmur2"
+hash = "3948007330"
+
+[update]
+[update.curseforge]
+file-id = 3272095
+project-id = 311054
+release-channel = "beta"

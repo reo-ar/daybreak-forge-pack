@@ -1,0 +1,14 @@
+name = "Mystical Agradditions"
+filename = "MysticalAgradditions-1.16.4-4.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3250/486/MysticalAgradditions-1.16.4-4.1.5.jar"
+hash-format = "murmur2"
+hash = "2760838049"
+
+[update]
+[update.curseforge]
+file-id = 3250486
+project-id = 256247
+release-channel = "beta"

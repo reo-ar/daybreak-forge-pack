@@ -1,12 +1,12 @@
-name = "Daybreak"
-author = "reo-ar"
+name = "Cum Ranch"
+author = "yuitaka"
 version = "0.0.1"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8601541baea61183c4653acde4125d1bdaf7e844441fd43afab7cbf28980b1a4"
+hash = "ad732bdf33b26fa33432a5409dad2baf3090d77a4a595fed60453914214d8d64"
 
 [versions]
-forge = "35.1.13"
-minecraft = "1.16.4"
+forge = "36.1.6"
+minecraft = "1.16.5"

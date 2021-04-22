@@ -1,0 +1,14 @@
+name = "Transport"
+filename = "Transport-1.16.5-3.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3271/777/Transport-1.16.5-3.6.0.jar"
+hash-format = "murmur2"
+hash = "1213669941"
+
+[update]
+[update.curseforge]
+file-id = 3271777
+project-id = 292692
+release-channel = "beta"

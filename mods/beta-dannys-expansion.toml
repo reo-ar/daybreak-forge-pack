@@ -1,0 +1,14 @@
+name = "Danny's Expansion"
+filename = "[BETA]dannys_expansion1.16.3~1.16.4-1.0.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3153/120/[BETA]dannys_expansion1.16.3~1.16.4-1.0.6.1.jar"
+hash-format = "murmur2"
+hash = "1420230240"
+
+[update]
+[update.curseforge]
+file-id = 3153120
+project-id = 425918
+release-channel = "beta"

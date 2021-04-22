@@ -1,14 +1,14 @@
 name = "Useful Railroads"
-filename = "useful_railroads-1.16.4-1.4.6.34.jar"
+filename = "useful_railroads-1.16.5-1.4.6.36.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3106/342/useful_railroads-1.16.4-1.4.6.34.jar"
+url = "https://edge.forgecdn.net/files/3233/242/useful_railroads-1.16.5-1.4.6.36.jar"
 hash-format = "murmur2"
-hash = "1791405500"
+hash = "4117916306"
 
 [update]
 [update.curseforge]
-file-id = 3106342
+file-id = 3233242
 project-id = 306475
 release-channel = "beta"

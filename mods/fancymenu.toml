@@ -1,0 +1,14 @@
+name = "FancyMenu [Forge]"
+filename = "fancymenu_2.0.6_MC_1.16.2-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3256/196/fancymenu_2.0.6_MC_1.16.2-1.16.5.jar"
+hash-format = "murmur2"
+hash = "203102355"
+
+[update]
+[update.curseforge]
+file-id = 3256196
+project-id = 367706
+release-channel = "beta"

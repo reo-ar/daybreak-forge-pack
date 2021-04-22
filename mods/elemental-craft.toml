@@ -1,0 +1,14 @@
+name = "Elemental Craft"
+filename = "elementalcraft-1.16.5-2.6.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3270/293/elementalcraft-1.16.5-2.6.8.jar"
+hash-format = "murmur2"
+hash = "1744919757"
+
+[update]
+[update.curseforge]
+file-id = 3270293
+project-id = 395158
+release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Just Enough Resources (JER)"
-filename = "JustEnoughResources-1.16.4-0.12.0.104.jar"
+filename = "JustEnoughResources-1.16.4-0.12.0.109.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3166/519/JustEnoughResources-1.16.4-0.12.0.104.jar"
+url = "https://edge.forgecdn.net/files/3225/96/JustEnoughResources-1.16.4-0.12.0.109.jar"
 hash-format = "murmur2"
-hash = "89227628"
+hash = "1638922850"
 
 [update]
 [update.curseforge]
-file-id = 3166519
+file-id = 3225096
 project-id = 240630
 release-channel = "beta"

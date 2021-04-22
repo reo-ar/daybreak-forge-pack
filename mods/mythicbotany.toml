@@ -1,0 +1,14 @@
+name = "MythicBotany"
+filename = "MythicBotany-1.16.3-1.2.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3276/52/MythicBotany-1.16.3-1.2.12.jar"
+hash-format = "murmur2"
+hash = "2731423363"
+
+[update]
+[update.curseforge]
+file-id = 3276052
+project-id = 400058
+release-channel = "beta"

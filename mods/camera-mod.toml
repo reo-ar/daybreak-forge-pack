@@ -1,14 +1,14 @@
 name = "Camera Mod"
-filename = "camera-1.16.4-1.0.8.jar"
+filename = "camera-1.16.5-1.0.10.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3160/452/camera-1.16.4-1.0.8.jar"
+url = "https://edge.forgecdn.net/files/3254/639/camera-1.16.5-1.0.10.jar"
 hash-format = "murmur2"
-hash = "348451014"
+hash = "1552683262"
 
 [update]
 [update.curseforge]
-file-id = 3160452
+file-id = 3254639
 project-id = 289310
 release-channel = "beta"

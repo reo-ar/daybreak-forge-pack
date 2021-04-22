@@ -1,0 +1,14 @@
+name = "Advanced Hook Launchers"
+filename = "AdHooks-1.16.4-6.1.4.0-build.0110.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3283/788/AdHooks-1.16.4-6.1.4.0-build.0110.jar"
+hash-format = "murmur2"
+hash = "2998780619"
+
+[update]
+[update.curseforge]
+file-id = 3283788
+project-id = 244849
+release-channel = "beta"

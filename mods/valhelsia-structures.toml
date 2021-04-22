@@ -3,7 +3,7 @@ filename = "valhelsia_structures-16.0.5.jar"
 side = "both"
 
 [download]
-url = "https://edge-service.overwolf.wtf/files/3089/925/valhelsia_structures-16.0.5.jar"
+url = "https://edge.forgecdn.net/files/3089/925/valhelsia_structures-16.0.5.jar"
 hash-format = "murmur2"
 hash = "1504263528"
 

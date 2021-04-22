@@ -1,0 +1,14 @@
+name = "Epic Fight Mod"
+filename = "EpicFightMod-1.16.5-3.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3281/689/EpicFightMod-1.16.5-3.2.2.jar"
+hash-format = "murmur2"
+hash = "3049584852"
+
+[update]
+[update.curseforge]
+file-id = 3281689
+project-id = 405076
+release-channel = "beta"

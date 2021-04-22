@@ -1,14 +1,14 @@
 name = "KleeSlabs"
-filename = "KleeSlabs_1.16.3-9.2.0.jar"
+filename = "KleeSlabs_1.16.5-9.2.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3066/71/KleeSlabs_1.16.3-9.2.0.jar"
+url = "https://edge.forgecdn.net/files/3222/119/KleeSlabs_1.16.5-9.2.1.jar"
 hash-format = "murmur2"
-hash = "2901737293"
+hash = "2261297292"
 
 [update]
 [update.curseforge]
-file-id = 3066071
+file-id = 3222119
 project-id = 241895
 release-channel = "beta"

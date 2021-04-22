@@ -1,0 +1,14 @@
+name = "Login Shield"
+filename = "Login_Shield-1.16.5-5-g909ffa8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3242/231/Login_Shield-1.16.5-5-g909ffa8.jar"
+hash-format = "murmur2"
+hash = "421809775"
+
+[update]
+[update.curseforge]
+file-id = 3242231
+project-id = 233255
+release-channel = "beta"

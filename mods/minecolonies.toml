@@ -1,0 +1,14 @@
+name = "MineColonies"
+filename = "minecolonies-0.14.112-ALPHA-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3284/943/minecolonies-0.14.112-ALPHA-universal.jar"
+hash-format = "murmur2"
+hash = "1325726573"
+
+[update]
+[update.curseforge]
+file-id = 3284943
+project-id = 245506
+release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "YUNG's Better Caves (Forge)"
-filename = "BetterCaves-1.16.3-1.0.6.jar"
+filename = "BetterCaves-Forge-1.16.4-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge-service.overwolf.wtf/files/3128/132/BetterCaves-1.16.3-1.0.6.jar"
+url = "https://edge.forgecdn.net/files/3170/47/BetterCaves-Forge-1.16.4-1.1.1.jar"
 hash-format = "murmur2"
-hash = "3123186311"
+hash = "1900831172"
 
 [update]
 [update.curseforge]
-file-id = 3128132
+file-id = 3170047
 project-id = 340583
 release-channel = "beta"

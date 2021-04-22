@@ -1,14 +1,14 @@
 name = "Trash Cans"
-filename = "trashcans-1.0.6-mc1.16.4.jar"
+filename = "trashcans-1.0.9-mc1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3156/205/trashcans-1.0.6-mc1.16.4.jar"
+url = "https://edge.forgecdn.net/files/3278/995/trashcans-1.0.9-mc1.16.5.jar"
 hash-format = "murmur2"
-hash = "2917370955"
+hash = "2398728556"
 
 [update]
 [update.curseforge]
-file-id = 3156205
+file-id = 3278995
 project-id = 394535
 release-channel = "beta"

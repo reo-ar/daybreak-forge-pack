@@ -1,0 +1,14 @@
+name = "Inventory HUD+"
+filename = "InventoryHud_[1.16.2-1.16.5].forge-3.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3203/374/InventoryHud_[1.16.2-1.16.5].forge-3.2.2.jar"
+hash-format = "murmur2"
+hash = "806876805"
+
+[update]
+[update.curseforge]
+file-id = 3203374
+project-id = 357540
+release-channel = "beta"

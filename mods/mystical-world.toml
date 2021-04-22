@@ -1,0 +1,14 @@
+name = "Mystical World"
+filename = "mysticalworld-1.16.4-0.3.1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3277/757/mysticalworld-1.16.4-0.3.1.10.jar"
+hash-format = "murmur2"
+hash = "2088264322"
+
+[update]
+[update.curseforge]
+file-id = 3277757
+project-id = 282940
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "When Dungeons Arise"
+filename = "dungeonsarise1.16.5-1.2.72a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3261/609/dungeonsarise1.16.5-1.2.72a.jar"
+hash-format = "murmur2"
+hash = "3656248620"
+
+[update]
+[update.curseforge]
+file-id = 3261609
+project-id = 442508
+release-channel = "beta"

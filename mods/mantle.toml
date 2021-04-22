@@ -1,0 +1,14 @@
+name = "Mantle"
+filename = "Mantle-1.16.5-1.6.92.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3273/201/Mantle-1.16.5-1.6.92.jar"
+hash-format = "murmur2"
+hash = "2724304309"
+
+[update]
+[update.curseforge]
+file-id = 3273201
+project-id = 74924
+release-channel = "beta"

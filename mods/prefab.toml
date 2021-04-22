@@ -1,14 +1,14 @@
 name = "Prefab"
-filename = "prefab-1.6.4.2.jar"
+filename = "prefab-1.6.5.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3160/190/prefab-1.6.4.2.jar"
+url = "https://edge.forgecdn.net/files/3275/454/prefab-1.6.5.2.jar"
 hash-format = "murmur2"
-hash = "3730371403"
+hash = "202890246"
 
 [update]
 [update.curseforge]
-file-id = 3160190
+file-id = 3275454
 project-id = 246550
 release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "DataPack Anvil"
+filename = "dpanvil-1.16.4-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3256/638/dpanvil-1.16.4-1.1.3.jar"
+hash-format = "murmur2"
+hash = "645631621"
+
+[update]
+[update.curseforge]
+file-id = 3256638
+project-id = 432817
+release-channel = "beta"

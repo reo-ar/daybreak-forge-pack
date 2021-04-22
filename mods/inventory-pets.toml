@@ -1,0 +1,14 @@
+name = "Inventory Pets"
+filename = "inventorypets-1.16.5-2.0.14.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3276/18/inventorypets-1.16.5-2.0.14.jar"
+hash-format = "murmur2"
+hash = "2611917476"
+
+[update]
+[update.curseforge]
+file-id = 3276018
+project-id = 229380
+release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Building Gadgets"
-filename = "buildinggadgets-1.16.4-3.7.3.jar"
+filename = "buildinggadgets-1.16.5-3.8.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3144/138/buildinggadgets-1.16.4-3.7.3.jar"
+url = "https://edge.forgecdn.net/files/3205/295/buildinggadgets-1.16.5-3.8.0.jar"
 hash-format = "murmur2"
-hash = "3297554583"
+hash = "3456565023"
 
 [update]
 [update.curseforge]
-file-id = 3144138
+file-id = 3205295
 project-id = 298187
 release-channel = "beta"

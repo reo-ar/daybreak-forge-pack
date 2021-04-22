@@ -1,0 +1,14 @@
+name = "Doggy Talents"
+filename = "DoggyTalents-1.16.5-2.0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3271/573/DoggyTalents-1.16.5-2.0.1.4.jar"
+hash-format = "murmur2"
+hash = "2387447007"
+
+[update]
+[update.curseforge]
+file-id = 3271573
+project-id = 271050
+release-channel = "beta"

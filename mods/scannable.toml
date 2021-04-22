@@ -1,0 +1,14 @@
+name = "Scannable"
+filename = "Scannable-MC1.16.5-1.7.3.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3221/64/Scannable-MC1.16.5-1.7.3.17.jar"
+hash-format = "murmur2"
+hash = "3672491778"
+
+[update]
+[update.curseforge]
+file-id = 3221064
+project-id = 266784
+release-channel = "beta"

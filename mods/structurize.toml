@@ -1,0 +1,14 @@
+name = "Structurize"
+filename = "structurize-0.13.166-ALPHA-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3280/126/structurize-0.13.166-ALPHA-universal.jar"
+hash-format = "murmur2"
+hash = "4061404184"
+
+[update]
+[update.curseforge]
+file-id = 3280126
+project-id = 298744
+release-channel = "beta"

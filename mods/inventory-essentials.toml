@@ -1,0 +1,14 @@
+name = "Inventory Essentials"
+filename = "InventoryEssentials_1.16.3-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3222/115/InventoryEssentials_1.16.3-2.3.1.jar"
+hash-format = "murmur2"
+hash = "1486523504"
+
+[update]
+[update.curseforge]
+file-id = 3222115
+project-id = 368825
+release-channel = "beta"

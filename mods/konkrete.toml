@@ -1,0 +1,14 @@
+name = "Konkrete [Forge]"
+filename = "konkrete_1.1.6_MC_1.16.2-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3279/152/konkrete_1.1.6_MC_1.16.2-1.16.5.jar"
+hash-format = "murmur2"
+hash = "3867302995"
+
+[update]
+[update.curseforge]
+file-id = 3279152
+project-id = 410295
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Long Fall Boots"
+filename = "longfallboots-1.6.0a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3128/792/longfallboots-1.6.0a.jar"
+hash-format = "murmur2"
+hash = "3448777947"
+
+[update]
+[update.curseforge]
+file-id = 3128792
+project-id = 254032
+release-channel = "beta"

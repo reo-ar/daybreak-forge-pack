@@ -1,0 +1,14 @@
+name = "Spartan Weaponry"
+filename = "SpartanWeaponry-1.16.4-2.1.0-beta-3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3164/46/SpartanWeaponry-1.16.4-2.1.0-beta-3.jar"
+hash-format = "murmur2"
+hash = "2363950512"
+
+[update]
+[update.curseforge]
+file-id = 3164046
+project-id = 278141
+release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "GeckoLib"
-filename = "forge-1.16.4-geckolib-3.0.0.jar"
+filename = "geckolib-forge-1.16.5-3.0.31.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3135/745/forge-1.16.4-geckolib-3.0.0.jar"
+url = "https://edge.forgecdn.net/files/3282/81/geckolib-forge-1.16.5-3.0.31.jar"
 hash-format = "murmur2"
-hash = "2369550246"
+hash = "1976627535"
 
 [update]
 [update.curseforge]
-file-id = 3135745
+file-id = 3282081
 project-id = 388172
 release-channel = "beta"

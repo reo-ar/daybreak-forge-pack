@@ -1,14 +1,14 @@
 name = "Absent by Design"
-filename = "absentbydesign-1.16.4-1.3.1.jar"
+filename = "absentbydesign-1.16.5-1.4.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3150/841/absentbydesign-1.16.4-1.3.1.jar"
+url = "https://edge.forgecdn.net/files/3213/954/absentbydesign-1.16.5-1.4.1.jar"
 hash-format = "murmur2"
-hash = "3313339563"
+hash = "2634303576"
 
 [update]
 [update.curseforge]
-file-id = 3150841
+file-id = 3213954
 project-id = 305840
 release-channel = "beta"

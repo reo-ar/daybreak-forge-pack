@@ -1,0 +1,14 @@
+name = "ObserverLib"
+filename = "observerlib-1.16.4-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3162/44/observerlib-1.16.4-1.5.1.jar"
+hash-format = "murmur2"
+hash = "2993932671"
+
+[update]
+[update.curseforge]
+file-id = 3162044
+project-id = 316833
+release-channel = "beta"

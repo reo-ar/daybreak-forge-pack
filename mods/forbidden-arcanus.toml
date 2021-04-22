@@ -1,0 +1,14 @@
+name = "Forbidden and Arcanus"
+filename = "forbidden_arcanus-16.2.0-beta-3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3225/554/forbidden_arcanus-16.2.0-beta-3.jar"
+hash-format = "murmur2"
+hash = "989509486"
+
+[update]
+[update.curseforge]
+file-id = 3225554
+project-id = 309858
+release-channel = "beta"

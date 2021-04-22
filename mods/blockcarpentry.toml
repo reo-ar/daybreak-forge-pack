@@ -1,0 +1,14 @@
+name = "BlockCarpentry"
+filename = "blockcarpentry-1.16-0.3.5b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3264/543/blockcarpentry-1.16-0.3.5b.jar"
+hash-format = "murmur2"
+hash = "364015586"
+
+[update]
+[update.curseforge]
+file-id = 3264543
+project-id = 401658
+release-channel = "beta"

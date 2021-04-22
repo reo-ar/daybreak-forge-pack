@@ -1,14 +1,14 @@
 name = "Platforms"
-filename = "platforms-1.16-1.7.8.jar"
+filename = "platforms-1.16-1.7.11.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3125/52/platforms-1.16-1.7.8.jar"
+url = "https://edge.forgecdn.net/files/3283/464/platforms-1.16-1.7.11.jar"
 hash-format = "murmur2"
-hash = "1493691559"
+hash = "931760144"
 
 [update]
 [update.curseforge]
-file-id = 3125052
+file-id = 3283464
 project-id = 244786
 release-channel = "beta"

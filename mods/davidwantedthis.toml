@@ -1,8 +1,0 @@
-name = "David Wanted This"
-filename = "davidwantedthis.jar"
-side = "client"
-
-[download]
-url = "http://www.whale.ga/davidwantedthis.jar"
-hash-format = "sha256"
-hash = "4b7b56ecc95734fa1c8c6db63f5afccba6cd210eae5b746ee998fe16f6e8fc07"

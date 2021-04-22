@@ -1,0 +1,14 @@
+name = "EvilCraft"
+filename = "EvilCraft-1.16.5-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3271/264/EvilCraft-1.16.5-1.1.2.jar"
+hash-format = "murmur2"
+hash = "2954015853"
+
+[update]
+[update.curseforge]
+file-id = 3271264
+project-id = 74610
+release-channel = "beta"

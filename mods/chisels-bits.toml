@@ -1,14 +1,14 @@
 name = "Chisels & Bits"
-filename = "chiselsandbits-0.2.8-RELEASE.jar"
+filename = "chiselsandbits-0.3.4-RELEASE.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3133/859/chiselsandbits-0.2.8-RELEASE.jar"
+url = "https://edge.forgecdn.net/files/3234/842/chiselsandbits-0.3.4-RELEASE.jar"
 hash-format = "murmur2"
-hash = "4063972124"
+hash = "2808406543"
 
 [update]
 [update.curseforge]
-file-id = 3133859
+file-id = 3234842
 project-id = 231095
 release-channel = "beta"

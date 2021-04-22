@@ -1,0 +1,14 @@
+name = "Item Filters"
+filename = "item-filters-1605.2.4-build.30-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3231/742/item-filters-1605.2.4-build.30-forge.jar"
+hash-format = "murmur2"
+hash = "2626071596"
+
+[update]
+[update.curseforge]
+file-id = 3231742
+project-id = 309674
+release-channel = "beta"
