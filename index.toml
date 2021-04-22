@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/beta-dannys-expansion.toml"
-hash = "db82ec00afdf6acbe5c40881365725f5f12d71277465456f899bb05bc5b0195e"
+hash = "172453fb3cb88a68003ea08bc03792bf72115f50cc06a123cfa7b9a9a60f0794"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.toml"
-hash = "bc84460b81914969945eb6099e6e74cbd91a8fb45a318d5d0aa8e68c4aa1234b"
+hash = "08ca9b2ace5171d11a8bdbe07c71422e494ef39507f15a28999119aea76b5a3f"
 metafile = true
 
 [[files]]
