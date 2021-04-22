@@ -1,5 +1,5 @@
 name = "Inventory HUD+"
-filename = "InventoryHud_[1.16.2-1.16.5].forge-3.2.2.jar"
+filename = "InventoryHud_1.16.2-1.16.5.forge-3.2.2.jar"
 side = "both"
 
 [download]
