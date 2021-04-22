@@ -126,11 +126,6 @@ hash = "be9f917dae6fa390eae9904a128801c1d8d62057ec26a2d054e8e1a45f676541"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.toml"
-hash = "50bca8e40130a09e0aa069c94666725c212a878d0084dc85299065dcd87de819"
-metafile = true
-
-[[files]]
 file = "mods/champions.toml"
 hash = "18388f9059a384b641ed4b46f0b7488ce93f74c440c2f14ab6f2bca0c02d01be"
 metafile = true
@@ -301,18 +296,8 @@ hash = "d4ac8f33d52adc6469e23cb0c5c1db602e4639f7ab674edff135a49d8bcd5231"
 metafile = true
 
 [[files]]
-file = "mods/fastfurnace.toml"
-hash = "33080cb860556b54d31ae31188c78d161e190f4b469dbd49e0e11c03c9f8523d"
-metafile = true
-
-[[files]]
 file = "mods/fastworkbench-minus-replacement.toml"
 hash = "9437d6b3c62c4196ec4527c5789e5499684aeed60842a49d97d7c5de4eaa1b81"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench.toml"
-hash = "0d718b4ecbe8d2b5d0350a280dde77eaf067976f4cd71751c4bb2b820eefaca0"
 metafile = true
 
 [[files]]
@@ -591,11 +576,6 @@ hash = "0c9f08f5face8546ea94c587e2f388fe076a94ed941bce7f2d1db0e492813bf2"
 metafile = true
 
 [[files]]
-file = "mods/placebo.toml"
-hash = "8ea8bda7144f082039b8837539ebcb41c48a54f2f34ce61565d91037d8fa5baa"
-metafile = true
-
-[[files]]
 file = "mods/platforms.toml"
 hash = "b681ff7a47a86deefd1658e2d7cc2c1da2f014df329dd727f48cd94e3c3d1326"
 metafile = true
@@ -668,11 +648,6 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.toml"
 hash = "ba199d6ce6be52dff857cebbf3c830edb6463ace0b9aaae16f216e3d93a5c8cc"
-metafile = true
-
-[[files]]
-file = "mods/slashblade.toml"
-hash = "4239b75c2af5faecf7c11cfd36cdf0c80186b8d14718a12fad8c94fe193b52ee"
 metafile = true
 
 [[files]]
