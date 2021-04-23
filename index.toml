@@ -361,11 +361,6 @@ hash = "232296ebc4cd10b24946c08c8be8a20e83634c98ff2eeff1dd55e140c04e7513"
 metafile = true
 
 [[files]]
-file = "mods/hardcore-revival.toml"
-hash = "e1d13cbb78f2a79d4a16772b8c49f7cef7c458171e825547d61b17fe0ec1228e"
-metafile = true
-
-[[files]]
 file = "mods/integrated-crafting.toml"
 hash = "efa1349a1b387cb968be46c838a4b2ec016621c723dbfb901760fed621606c32"
 metafile = true
