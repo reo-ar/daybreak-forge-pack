@@ -126,11 +126,6 @@ hash = "be9f917dae6fa390eae9904a128801c1d8d62057ec26a2d054e8e1a45f676541"
 metafile = true
 
 [[files]]
-file = "mods/champions.toml"
-hash = "18388f9059a384b641ed4b46f0b7488ce93f74c440c2f14ab6f2bca0c02d01be"
-metafile = true
-
-[[files]]
 file = "mods/charm-reforged.toml"
 hash = "c595750aa5da10cf6d1122c64832d34537f76a969246d342e29df1021a867093"
 metafile = true
@@ -548,11 +543,6 @@ metafile = true
 [[files]]
 file = "mods/observerlib.toml"
 hash = "39798ed5e1a135a69bfa001121a9ef1b16f1a5cb12b23b1c912d6144661548da"
-metafile = true
-
-[[files]]
-file = "mods/overloaded-armor-bar.toml"
-hash = "cff49d7817c9fb780a4a76126d5d75fe6a8caecd9d61da003fcaea399ac23433"
 metafile = true
 
 [[files]]
