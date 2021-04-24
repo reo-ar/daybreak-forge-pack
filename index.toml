@@ -361,6 +361,11 @@ hash = "232296ebc4cd10b24946c08c8be8a20e83634c98ff2eeff1dd55e140c04e7513"
 metafile = true
 
 [[files]]
+file = "mods/ice-and-fire-dragons.toml"
+hash = "3bd0f0d9d6faa8d7962051ef3744bd4500479462bf5de0832b80c5e338f68e81"
+metafile = true
+
+[[files]]
 file = "mods/integrated-crafting.toml"
 hash = "efa1349a1b387cb968be46c838a4b2ec016621c723dbfb901760fed621606c32"
 metafile = true
