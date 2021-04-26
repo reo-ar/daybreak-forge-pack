@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Cum Ranch-0.0.1.zip"
+hash = "aeb2b9bb3a04e3fa6478b826b7a050161705448dd459a957c4a144e192e5d9ae"
+
+[[files]]
 file = "mods/abnormals-core.toml"
 hash = "9c8eb3a42c28c7e4b993d78b421c66ebef4cef0e0d8664180f2b9ce62fd9ce00"
 metafile = true
