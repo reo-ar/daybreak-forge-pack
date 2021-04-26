@@ -696,16 +696,6 @@ hash = "df4d39a2ece590578eb7b175a2531deed66e09d531d9a296247d18fa6268f8b2"
 metafile = true
 
 [[files]]
-file = "mods/spartan-shields.toml"
-hash = "058028b27e1a0c0294d14093b7efb0d188cdee75cdc7fb98429885c0467778ba"
-metafile = true
-
-[[files]]
-file = "mods/spartan-weaponry.toml"
-hash = "6e6eeda139f9e8359f680278feceb9fa305ab1497a9949beb7ef2152981ff140"
-metafile = true
-
-[[files]]
 file = "mods/spice-of-life-carrot-edition.toml"
 hash = "678fe445d19bcb00262947b548ccc1649ef9afe03a909aab35dc56d2d9d90313"
 metafile = true
@@ -722,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "dfc45d8e1e4f7e2bc658af2e4d7865d06845de039bf1a7c5c53921253ebdf589"
+hash = "f7021de3e891bedad7c2399d90d912549bdbbef07212f294b354010db9199896"
 metafile = true
 
 [[files]]
@@ -738,11 +728,6 @@ metafile = true
 [[files]]
 file = "mods/terraforged.toml"
 hash = "6cd021d09b40fc20ce276b8d217c20553c007b28c9de785319c88d848445f5b9"
-metafile = true
-
-[[files]]
-file = "mods/tetra.toml"
-hash = "ce93de8d36d6514d1a6443c025bd4bc454ab4642db5b065e15afc1903e79c331"
 metafile = true
 
 [[files]]
