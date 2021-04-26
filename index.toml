@@ -816,6 +816,11 @@ hash = "4c3d9ef85008d499921b5d10ed733f6a62a95a917281f79fcfe5096ab1294b70"
 metafile = true
 
 [[files]]
+file = "mods/xl-packets.toml"
+hash = "f2c2fafdbb9e69714b20fca45ddceaf929afaf7f1406e177fce8700ccfc28505"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.toml"
 hash = "1b9ffa3571c9bb6393f66d911991c9a86677cae3bb75768e2d6e16f790cb3126"
 metafile = true
