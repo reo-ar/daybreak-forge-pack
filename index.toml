@@ -526,11 +526,6 @@ hash = "c3cf41773887be430515d92ef731540f67147bb0aab70299566460b60ee8cfe0"
 metafile = true
 
 [[files]]
-file = "mods/mcmt-multithreading.toml"
-hash = "5d4a88ef798946ed8516db6bcb8ba208e7778a2ce280067426d951a1ebbd88e7"
-metafile = true
-
-[[files]]
 file = "mods/metal-barrels.toml"
 hash = "d4ed46f071d646e8f7b7a91af53c8de3b8637cc87500856660e841e928464f18"
 metafile = true
