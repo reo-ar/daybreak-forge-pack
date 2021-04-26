@@ -1,14 +1,14 @@
 name = "LibX"
-filename = "LibX-1.16.3-1.0.42.jar"
+filename = "LibX-1.16.3-1.0.50.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3283/125/LibX-1.16.3-1.0.42.jar"
+url = "https://edge.forgecdn.net/files/3289/449/LibX-1.16.3-1.0.50.jar"
 hash-format = "murmur2"
-hash = "1221683704"
+hash = "2553413363"
 
 [update]
 [update.curseforge]
-file-id = 3283125
+file-id = 3289449
 project-id = 412525
 release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Metal Barrels"
+filename = "metalbarrels-3.3a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3055/811/metalbarrels-3.3a.jar"
+hash-format = "murmur2"
+hash = "110599990"
+
+[update]
+[update.curseforge]
+file-id = 3055811
+project-id = 324985
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Modern UI"
+filename = "ModernUI-1.16.5-2.5.0.85-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3278/865/ModernUI-1.16.5-2.5.0.85-universal.jar"
+hash-format = "murmur2"
+hash = "3598253030"
+
+[update]
+[update.curseforge]
+file-id = 3278865
+project-id = 352491
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Druidcraft"
+filename = "Druidcraft-1.16.5-0.4.52.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3177/267/Druidcraft-1.16.5-0.4.52.jar"
+hash-format = "murmur2"
+hash = "2333922851"
+
+[update]
+[update.curseforge]
+file-id = 3177267
+project-id = 340991
+release-channel = "beta"

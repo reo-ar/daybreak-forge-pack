@@ -1,14 +1,14 @@
 name = "Psi"
-filename = "Psi 1.16-93.jar"
+filename = "Psi 1.16-94.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3258/606/Psi 1.16-93.jar"
+url = "https://edge.forgecdn.net/files/3288/535/Psi 1.16-94.jar"
 hash-format = "murmur2"
-hash = "3213090732"
+hash = "947812386"
 
 [update]
 [update.curseforge]
-file-id = 3258606
+file-id = 3288535
 project-id = 241665
 release-channel = "beta"

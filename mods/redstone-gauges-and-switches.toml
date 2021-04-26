@@ -1,14 +1,14 @@
 name = "Gauges and Switches"
-filename = "rsgauges-1.16.4-1.2.9-b1.jar"
+filename = "rsgauges-1.16.4-1.2.9.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3194/49/rsgauges-1.16.4-1.2.9-b1.jar"
+url = "https://edge.forgecdn.net/files/3287/295/rsgauges-1.16.4-1.2.9.jar"
 hash-format = "murmur2"
-hash = "138225801"
+hash = "2587703849"
 
 [update]
 [update.curseforge]
-file-id = 3194049
+file-id = 3287295
 project-id = 296686
 release-channel = "beta"

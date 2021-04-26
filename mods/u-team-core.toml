@@ -1,14 +1,14 @@
 name = "U Team Core"
-filename = "u_team_core-1.16.5-3.2.0.194.jar"
+filename = "u_team_core-1.16.5-3.2.1.195.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3257/635/u_team_core-1.16.5-3.2.0.194.jar"
+url = "https://edge.forgecdn.net/files/3288/223/u_team_core-1.16.5-3.2.1.195.jar"
 hash-format = "murmur2"
-hash = "1369955082"
+hash = "2173988888"
 
 [update]
 [update.curseforge]
-file-id = 3257635
+file-id = 3288223
 project-id = 273744
 release-channel = "beta"
